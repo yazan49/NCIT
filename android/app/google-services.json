@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124132773968",
+    "project_id": "ncit-fae0e",
+    "storage_bucket": "ncit-fae0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124132773968:android:d10298b5fdbf0ac3ce8155",
+        "android_client_info": {
+          "package_name": "com.ncit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAbiCqxlvBhKKXpjG-TGIcHpKIUekTIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
